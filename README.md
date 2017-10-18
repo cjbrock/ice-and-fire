@@ -1,3 +1,22 @@
+
+Potential APIs to use:
+Star Wars API: https://swapi.co/
+News API: https://newsapi.org
+Pokemon API: https://pokeapi.co/docsv2/
+Brewery API: http://www.brewerydb.com/developers
+Star Trek API: http://stapi.co (uses YAML, not JSON)
+Book search API: https://www.googleapis.com/books/v1/volumes?q=isbn:0747532699
+iTunes search API: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+Open movie database: https://www.omdbapi.com/
+Collection of space APIs: http://open-notify.org/
+Football data: https://api.football-data.org/index (for us Yanks, it’s soccer data)
+Open Air Quality data: https://docs.openaq.org/
+SEPTA Train API: https://www.septastats.com/api (trains in Philly, I think)
+Sunrise/Sunset API: https://sunrise-sunset.org/api (sunrises and sunsets at a given latitude and longitude, nothing to do with Fiddler on the Roof)
+Game of Thrones API: https://anapioficeandfire.com/
+Unsplash photography API: https://unsplash.com/developers
+
+
 # IceAndFire
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ice_and_fire`. To experiment with that code, run `bin/console` for an interactive prompt.
